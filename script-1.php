@@ -1,0 +1,17 @@
+ <script src="js/library/jquery.min.js"></script>
+    <script src="js/library/bootstrap.min.js"></script>
+    <script src="js/function-check-viewport.js"></script>
+    <script src="js/library/slick.min.js"></script>
+    <script src="js/library/imagesloaded.pkgd.min.js"></script>
+    <script src="js/library/jquery.mmenu.all.min.js"></script>
+    <script src="js/library/rellax.min.js"></script>
+    <script src="js/library/isotope.pkgd.min.js"></script>
+    <script src="js/library/bootstrap-notify.min.js"></script>
+    <script src="js/library/bootstrap-slider.js"></script>
+    <script src="js/library/in-view.min.js"></script>
+    <script src="js/library/countUp.js"></script>
+    <script src="js/library/animsition.min.js"></script>
+    <script src="js/global.js"></script>
+    <script src="js/config-mm-menu.js"></script>
+    <script src="js/config-set-bg-blog-thumb.js"></script>
+    <script src="js/config-inview-counter-up.js"></script>
